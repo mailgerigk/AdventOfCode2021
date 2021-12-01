@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "runCurrentFile",
+            "command": "v",
+            "args": ["run", "${file}"],
+            "type": "shell"
+        }
+    ]
+}
